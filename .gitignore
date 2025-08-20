@@ -1,0 +1,15 @@
+# Security audit reports
+security_audits/
+*.log
+*.json
+*.html
+*.txt
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+.*.swp
