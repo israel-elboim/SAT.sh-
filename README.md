@@ -29,6 +29,6 @@ Optional but recommended:
 Clone this repository and make the script executable:
 
 ```bash
-git clone https://github.com/israel-elboim/sat-plus.git
-cd sat-plus
+git clone https://github.com/israel-elboim/SAT.sh-.git
+cd SAT.sh-
 chmod +x SAT.sh
